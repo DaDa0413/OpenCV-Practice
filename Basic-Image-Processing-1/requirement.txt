@@ -1,0 +1,1 @@
+我為了執行tkinter，我額外安裝了Pillow套件。
